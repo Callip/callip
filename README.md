@@ -7,6 +7,7 @@ Any messages you want to securely send me can be encrypted using the following p
 
 <details>
 <summary><strong>PGP Public Key</strong></summary>
+  
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.0.76
@@ -113,15 +114,18 @@ rgxXEStN
 <details>
   <summary><strong>Key Details</strong></summary>
 
-**Key Type:** RSA
+  ```
+Key Type: RSA
 
-**Expires:** Never
+Expires: Never
 
-**Key Size:** 4096/4096
+Key Size: 4096/4096
 
-**Fingerprint:** 274F 88F8 F409 0426 74E9 CF49 C764 4679 097A 441C
+Fingerprint: 274F 88F8 F409 0426 74E9 CF49 C764 4679 097A 441C
 
-**UserID:** Callip Clarkson
+UserID: Callip Clarkson
 
-**Other Information:** Life is better in black...
+Other Information: Life is better in black...
+  ```
+  
 </details>
